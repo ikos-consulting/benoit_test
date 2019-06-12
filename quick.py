@@ -6,3 +6,6 @@ def say_bye():
 
 def say_nothing():
     print('...')
+    
+def say_something():
+    print('something LUL')
