@@ -3,3 +3,6 @@ def say_hi():
 
 def say_bye():
     print('Bye :(')
+
+def say_nothing():
+    print('...')
